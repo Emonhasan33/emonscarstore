@@ -1,0 +1,129 @@
+@import './font.css';
+header{
+	background-color:black;
+	padding:3px;
+    margin:3px;
+	
+}
+body{
+	background-color:#A4E5E0;
+}
+
+.c{
+	color:blue;
+	font-size:30px;
+	font-family: "Playwrite VN Guides", cursive;
+	font-weight: 600;
+    font-style: normal;
+	text-align:center;
+	
+}
+.menu{
+	color:black;
+	text-align:center;
+	font-size:30px;
+}
+.menu a{
+	margin:10px
+	
+}
+
+p{
+	color:black;
+	font-size:20px;
+    font-family: "Montserrat", sans-serif;
+	font-weight: 500;
+    font-style: normal;
+	
+}
+.bz{
+	text-align:center;
+	margin:20px;
+}
+.ps{
+	text-align:center;
+	color:black;
+	font-size:20px;
+    font-family: "Montserrat", sans-serif;
+	font-weight: 500;
+    font-style: normal;
+}
+/*imege's page digain*/
+.images1{
+	padding:50px;
+	margin:30px;
+    background-color: powderblue;
+	text-align:center;
+}
+.images2 img{
+	padding:50px;
+	margin:30px;
+    background-color: powderblue;
+	text-align:center;
+	
+}
+.images3{
+
+    background-color: powderblue;
+	text-align:center;
+	padding:50px;
+	margin:30px;
+}
+.images4{
+	
+	
+    background-color: powderblue;
+	text-align:center;
+	padding:50px;
+	margin:30px;
+}
+.images5{
+	
+    background-color: powderblue;
+	text-align:center;
+	padding:50px;
+	margin:30px;
+}
+.images6{
+	
+    background-color: powderblue;
+	text-align:center;
+	padding:50px;
+	margin:30px;
+}
+
+/*order page digain*/
+.rejistetionfrom input[type=text]{
+	height:50px;
+	width:300px;
+	font-size:40px;
+	font-family: "Roboto Mono", monospace;
+	text-align:center;
+}
+.rejistetionfrom input[type=text].name{
+	height:50px;
+	width:300px;
+	font-size:40px;
+	font-family: "Roboto Mono", monospace;
+	text-align:left;
+}
+h3 {
+	color:black;
+	font-size:30px;
+	font-weight: 600;
+    font-style: normal;
+	
+}
+
+footer{
+	background-color:black;
+	padding:15px;
+    margin:20px;
+	
+}
+h5{
+	font-family: "Montserrat", sans-serif;
+	color:#DBF5F0;
+	text-align:center;
+	font-size:15px;
+}

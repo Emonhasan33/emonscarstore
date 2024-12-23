@@ -1,20 +1,20 @@
 @import './font.css';
 header{
-	background-color:black;
+	background-image: url('head.jpg');
 	padding:3px;
     margin:3px;
 	
 }
 body{
-	background-color:#A4E5E0;
+	background-image: url('body.jpg');
 }
 
 .c{
-	color:blue;
+	color:#7FE5F0;
 	font-size:30px;
-	font-family: "Playwrite VN Guides", cursive;
-	font-weight: 600;
-    font-style: normal;
+	font-family: "Ubuntu", serif;
+	font-weight: 300;
+	font-style: normal;
 	text-align:center;
 	
 }
@@ -36,9 +36,16 @@ p{
     font-style: normal;
 	
 }
+.bz2{
+	text-align:center;
+}
 .bz{
+	
 	text-align:center;
 	margin:20px;
+	height:430px;
+	width: 800px;
+	
 }
 .ps{
 	text-align:center;
@@ -52,19 +59,15 @@ p{
 .images1{
 	padding:50px;
 	margin:30px;
-    background-color: powderblue;
 	text-align:center;
 }
-.images2 img{
+.images2{
 	padding:50px;
 	margin:30px;
-    background-color: powderblue;
 	text-align:center;
 	
 }
 .images3{
-
-    background-color: powderblue;
 	text-align:center;
 	padding:50px;
 	margin:30px;
@@ -79,14 +82,19 @@ p{
 }
 .images5{
 	
-    background-color: powderblue;
 	text-align:center;
 	padding:50px;
 	margin:30px;
 }
 .images6{
 	
-    background-color: powderblue;
+	text-align:center;
+	padding:50px;
+	margin:30px;
+}
+
+.images7{
+	
 	text-align:center;
 	padding:50px;
 	margin:30px;
@@ -121,7 +129,7 @@ footer{
     margin:20px;
 	
 }
-h5{
+.foot1{
 	font-family: "Montserrat", sans-serif;
 	color:#DBF5F0;
 	text-align:center;
